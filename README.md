@@ -1,7 +1,7 @@
 <h1 align="center">PizzasPlus</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/LucasVanni/PizzaPlus/master/images/iconPizza.png?raw=true" align="center" alt="Icon" />
+    <img src="https://github.com/LucasVanni/PizzasPlus/blob/master/images/iconPizza.png?raw=true" width="50px" align="center" alt="Icon" />
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/LucasVanni/PizzaPlus/master/images/gitImages/home_page.png?raw=true" align="center" alt="Home Screen" />
+    <img src="https://github.com/LucasVanni/PizzasPlus/blob/master/images/gitImages/home_page.png?raw=true" align="center" alt="Home Screen" />
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/LucasVanni/PizzaPlus/master/images/gitImages/modal.png?raw=true" align="center" alt="Modal" />
+    <img src="https://github.com/LucasVanni/PizzasPlus/blob/master/images/gitImages/modal.png?raw=true" align="center" alt="Modal" />
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/LucasVanni/PizzaPlus/master/images/gitImages/checkout_menu.png?raw=true" align="center" alt="Checkout Menu" />
+    <img src="https://github.com/LucasVanni/PizzasPlus/blob/master/images/gitImages/checkout_menu.png?raw=true" align="center" alt="Checkout Menu" />
 </p>
