@@ -1,6 +1,5 @@
-<h1 align="center">PizzasPlus</h1>
-
 <p align="center">
+    <h1 align="center">PizzasPlus</h1>
     <img src="https://github.com/LucasVanni/PizzasPlus/blob/master/images/iconPizza.png?raw=true" width="50px" align="center" alt="Icon" />
 </p>
 
