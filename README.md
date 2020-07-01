@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Projeto para conhecimentos de JavaScript... Conceitos esses, aprendidos com Bonieky Lacerda. Link para seus cursos: <a href="https://b7web.com.br/" >Clique aqui para ser redirecionado</a>
+  Este projeto teve como objetivo aprender mais sobre o JavaScript...
 </p>
 
 <p align="center">
