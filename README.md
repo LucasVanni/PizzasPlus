@@ -1,6 +1,6 @@
-<p align="center" style={{ display: flex, flex-direction: 'row' }} >
-    <h1 align="center">PizzasPlus</h1>
-    <img src="https://github.com/LucasVanni/PizzasPlus/blob/master/images/iconPizza.png?raw=true" width="50px" align="center" alt="Icon" />
+<p align="center">
+    <h1 align="center">PizzasPlus <img src="https://github.com/LucasVanni/PizzasPlus/blob/master/images/iconPizza.png?raw=true" width="50px" align="center" alt="Icon" /></h1> 
+    
 </p>
 
 <p align="center">
