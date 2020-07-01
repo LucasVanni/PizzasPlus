@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Este projeto teve como objetivo aprender mais sobre o JavaScript...
+  Este projeto teve como objetivo aprender mais sobre o JavaScript.
 </p>
 
 <p align="center">
